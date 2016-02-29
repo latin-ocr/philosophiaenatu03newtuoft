@@ -1,0 +1,52 @@
+140 TRAITE' SUR LE FLUX
+
+Je n'ajofiterai pas la demonstration de ce Lemme: mais il est pom-tant
+bon d'avertir ici, qu’en cherchant la valeur de ς, qui marque le sinus de
+
+la difference de deux angles donnes par leurs sinus, on tombe facilement
+dans une autre expression beaucoup plus prolixe, et qui rend le calcul
+du Probleme, que nous allons exposer, presque impraticable.
+
+PROBLEME.
+
+Trouver les points z, οὐ les hauteurs y z soient les plus grandes.
+
+SOLI‘JTION.
+La nature de notre Probleme demande‚ que la differentielle de y z,
+scavoir 'Q (ᾗ. VIII.) soit = o, ou* bien gdg = Z-'eo‘dm
+
+b b ὁ
+Et si l'on differentie l'equation seconde du precedent Lemme, on trouve,
+prenant les quantite‘s m, n et b pour constantes, et σ pour variable,
+nnedo-—n modo ÷2mn⁶⁶—nmbb
+*b b m
+En comparant ces deux valeurs de g d g, on trouve une nouvelle equation,
+εὶ laquelle on pourra donner une telle forme,
+
+(-{bb0÷mme-—nn⁶) vb—b—-m=2mn⁶⁶—mnbb: si
+
+ede= do.
+
+—Cbb -Ι-Ξ-Ε. -· A,ontrouve
+&mn n m ¹
+
+apres une reduction entiere de l'equation, le sinus de l'angle b C Ζ, ou
+
+ἐε-ὲνρὲῇῖῇῃρ. C.q.f.t.
+
+ 
+
+l’on suppose pour abreger la formule
+
+xx SCHOLIE.
+
+XIL—Il ne sera pas difficile de reconnoitre dans chaque ωε, *quel
+choix on doit faire des signes ambigus. Mais pour faciliter la chose, et
+pour en donner une idee d’autant plus distincte, on pourra faire les
+remarques qui suivent. . x
+
+1⁰. Que notre formule marque en meme tems quatre points z, Z, s et
+S; que les deux premiers diametralement opposes, marquent que la mer
+y est la plus haute, et les deux autres diametralement opposes marquent
+que la mer x est la plus basse, et que l’arc z s est toujours de 90⁰, ce que
+

@@ -1,0 +1,47 @@
+ET REFLUX DE LA MER. 181
+
+nels alors aux arcs compris entre 18 pole de l'ellipso'l'de et 18 point en
+question.
+
+III.—Voici a present comment *il faut s’y prendre, pour trouver les
+memes baissemens et haussemens, qui se font pendant le mouvement
+diurne de la Terre dans un point quelconque, et la Lune ayant aussi une
+declinaison quelconque. On voit qu'on aura toujours le meme ellipso'l'de‚
+quelle que soit la declinaison de la Lune3 mais qu’il sera obliquement
+pose a l'egard de l'equateur: on voit aussi qu'il faut s’imaginer dans ce
+sphero'i'de allonge une section parallele a l'equateur, qui passe par 18
+’ point en question: cette Section ne sera pas un cercle parfait‚ et sa cir-
+conference n'aura pas tous ses points egalement eloignes du centre de
+l'ellipso'l‘de: c'est les differences de ses distances, qui forment 13 nature ’
+(183 11131883. Il s’agit donc de determiner ces differences.
+
+IV.-—Pour cet effet 11 faudra commencer par chercher les distances de
+chaque point du parallele au pole de l'ellipsoi'de (j’appelle ainsi l’extremite
+de l'ellipso‘l‘de‚ qui prolonge, passe par 18 centre de la Lune) et 883 (113-
+tances etant connues‚ il est facile de trouver la distance du meme point
+au centre de l’ellipso‘i'de, et les differences de ces distances. Car si 18
+cosinus de la distance d’un point pris dans le parallele au pole de l’ellip-
+so'l'de etoit g, 18 3111113 total = 1, et si le demi axe de l'ellipso'l'de est
+1101111118 b 4- δ, et 18 plus petit demi-diametre b, la distance du point pris
+par 18 parallele jusqu'au centre de l’ellipso‘l’de sera generalement = b
+-1- g g ὃς 110113 avons demontre cette Proposition au §. V. Chap. V.
+
+V.—Nous montrerons donc d’abord, comment il faudra determiner 13
+distance d'un point quelconque‚ pris dans un parallele donne au pole de
+l'ellipso‘l'de. La voye de la trigonometrie spherique ordinaire nous serait
+assez inutile ici, puisqu'il nous faut des expressions analytiques, applicables
+a tous les cas, et traitables aux 83181113. Si l'on vouloit tirer de telles ex-
+
+pressions des regles de la dite trigonometrie, les formules qui en provien—
+droient seroient beaucoup trop prolixes. Μ. Mayers nous a donne 13-
+(1833113 1111 beau Memoire insere dans les Commentaires de l'Academie
+Imperiale des Sciences de Petersbourg Tom. II. p. 12. 11 y a dans 88
+Μ81110118 311 XVIII. §. un Theoreme general, par 18 moyen duquel on
+. pourra toujours (18 trois choses (101111883 (13113 1111 triangle spherique‚
+trouver le, reste par des expressions analytiques extremement simples.
+Voici le cas que notre sujet demando.
+
+Soit dans un triangle spherique, le sinus total = l 3 le sinus d’un des
+cotes = S3 18 cosinus‘du meme cote = C; 18 3111113 d'un autre cote = s 3
+18 cosinus de cet autre cote = 8; 18 eosinus de l'angle compris entre les
+

@@ -1,0 +1,130 @@
+70
+
+sit mediocrisdkumiaLunaeaTerraD=so
+semid. terrestr. tempus periodicum Lunae = 27
+dieb. 7 hor. 43'. semid. Terrae = l, tempus revo-
+lutionis Terrae circa axem= 25 hor. 56‘. 4‘'. erit
+gravitas ad vin. centrifu ut 288 ad Ι. Unde
+pro TerraforetCA--C P: C P=12576=
+Terra itaque minus compressa foret quam a
+Newtono delinitum est, magis tamen quam de-
+terminatum est ab Hugenio, verum ob actionem
+Solia in Lunam, tempus ejus periodicum
+non respondet accurate vi centrifugae Ter-
+rae3 alias correctiones hujus calculi invenies
+Trans. Philus. Num. 458. quibus ad New-
+tonianum proportionem magis accurate re-
+vocatur. De haic quaestione nobilissima
+procul dubio legantur quae de Telluris
+figura dederunt clarissimi viri D. de Mai-
+rau in Monumentis Paris. an. 1720. D.
+de Maupertuis ibid. an. 1755. 1754.
+1755. 1756. et in duobus opusculis quorum
+unum de Figuris Corporum Coelestium, al-
+terum de Figura Telluris inscribitur. Prae-
+clara quoque de eodem argumento edide-
+runt D. Clairaut in Monumentis Parisi-
+ensibus an. 1735- et in Transactionibus
+Philosophicis Num. 445. et 449. D. Bou-
+guer ibid. an. 1736. D. Eustachius Man·
+fredius ibid. an. 1754. et D. Stirling in
+Transactionibus Anglicis an. 1735.
+
+⁵* Viam sternet ad determinandam figuram
+Ten-ae ortam ex necessitate aequilibrii vis centri-
+fugae et vis gravitatis singularum ejus partium,
+{55⁰²1223⁵⁵}“3‘³N⁵2¹„3533{ {Z‘ss'ss'e Χὲἶένὲἑῖξῖἕέ
+attractio corpusculi non solum .ςίιί in aare solidi
+rotundi, sed siti ubivis in ejus superficie, cujus
+ἕῐοωεῑηοιίε analysim hic in compendium tra-
+
+emus·
+
+PROBLEMA.
+
+Data aequatione curvae cujuscumque quae circa
+axim revolvendo solidum describat, invenire at-
+tractionem corpusculi siti in quocumque puncto
+superficiei ejus solidi.
+
+Constructio. Fingatur planum tangens id
+solidum in P, et super eo plano, e puncto P ut
+centro descripta intelligatur sphaera radio infinite
+parvo, dividatur tota superficies hemisphaerii
+versus solidum conversi in portiunculas aequales3
+et concipiantur pyramides (quarum vertices sint
+in centro sphaerae) illis portiunculis insistentes et
+inde ad solidi ipsius oppositam superficiem con-
+tinuatae, puta in Z, Z, terminentur illae pyra-
+mides in eo solido per bases parallelas basibus
+ipsarum sphaerae circumscriptis; corpusculi in
+puncto P siti attractio ab omnibus illis pyrami-
+dibus», concipi poterit ut attractio a toto solido ;
+exiguae enim ejus solidi portiones, quae in extre-
+mitate unius cujusque pyramidis negliguntur,
+sunt ubique totius pyramidis respectu infinite
+parvoe.
+
+Attractio autem corpusculi P a singula pyra-
+mide erit ubique ut axis P Z ejus pyramidis3
+
+ 
+
+PHILOSOPHJAE NATURALls [DE hiumam. y
+
+nam ducantur ubivis in axe, duo puncta infinite
+proxima, ducanturque per ea superficies duae,
+parallelae basi pyramidis, sive, quod idem est.
+parallelae superficiei spbaeroe circa P descriptae,
+exiguum solidum inter eas superficies contentum
+crescet ut illae superficies, sive ut quadratum
+portionis axeos abscissae, sed cum attractio sin-
+gulae particulae decrescat ut quadratum distan-
+tiae a puncto P, sive decrescat ut quadratum ab·
+
+A
+.
+
+  
+
+ 
+
+scissae; ide6que crescat particularum quantitas
+ut decrescit singulae particulae vis, evenit ut at-
+tractio ejus solidi ubivis in axe P Z sumpti ffl-
+dem semper sit; aequalis erit v. gr. atttactioni
+solidi cujus basis foret portio superficiei spboerae
+intra pyramidem contemne, et altitudo ina quam
+minima areos P Z portio assumpta. Hinc at-
+tractio totius pyramidis erit attractio ejus parvi
+solidi, toties repetita quot sunt axeos P Z porti-
+unculae3 cum itaque portio superficiei sphaerae
+intra pyramides contenta, sit ubivis eadem, ex -
+const„ attractiones singularum pyramidum erunt
+ut numerus particularum aequalium in singulo
+axe P Z assumendarum, sive quod idem est, ut
+
+singuli axes P Z. .
+
+His positis: sit M D N E unus e circulis
+genitis in solido proposito per revolutionem or.
+dinatae C M circa axim A B. Dico quod at-
+tractio puncti P ab omnibus pyramidibus qua-
+rum axes in circumferentia circuli M D N Ε
+terminantur, (quae est ut summa omnium axium
+P Z ad eam circumferentiam terminatorum) est
+at linea P C a puncto P ad centrum ejus circuli
+C ductae, multiplicata per numerum axium P Ζ
+ad circumferentiam M D N E pervenientium,
+(missis nempe singularum P Z longitudinibus).
+
+Assumatur enim in circumferentia M D N Ε
+'punctum quodlibet Z, et ducta per centrum C
+linea Z C ζ, ducatur P ξ, ex demonstratis at-
+tractiones pyramidum ad Z et< pervenientium
+erunt ut P Z ad P ζ ; ducatur ex P in circulum
+M D N E perpendiculum P R et per R et cen.
+trum C ducatur diameter M R N, sumptaque
+N r = M R demittatur perpendiculum r p, sit.
+querp= ΚΡ, lineaMN, PRetrpsuntin
+

@@ -1,0 +1,47 @@
+'ET REFLUX m: 'LA MER. 123
+
+&tre censee vraie pour notre sujet: et comme elle abrege fort le calcul, je
+l'ai mise lei, pour en faire usage dans 13 suite.
+
+PROBLEME.
+
+V.—Soit A le centre du Soleil, Β G D H 13 Terre 3 A D une ligne
+
+tiree par les centres du Soleil et de la Terre : trouver 13 difference entre
+
+B D et sa perpendiculaire' G H, qui passe par le centre C.
+
+’ SOLUTION.
+
+Qu'on s’imagine deux ‘eanaux B C et G C, communiquans entre eux
+au centre C, rempli d'un fluide de differentes densites, tellesqu'on sup-
+pose dans les couches de la Terre. Pour determinet ces couches, nous
+consideremus 13 sphere inserite G b H d, et
+nous supposerons tout ce noyau immuable pen· Α
+dant 13 revolution journaliere de 13 Terre,
+sandes, εὶ cet egard, sur ce que nous avons dit
+dans 13 quatrieme hypothese du ΙΙ. §. Quand
+‚meme on feroit attention aux ‘changemens de
+figure dans les couches pres de G b H d, cette ’
+consideration ne scauroit changer sensiblement
+le resultat du calcul, parce que ces changemens
+de figure sont tout-s-fajt insensibles, et que,
+selon toutes les apparences, ils ne scauroient se
+faire au-delzi d’une certaine profondeur assez
+petite 3 l'egard du rayon de la Terre. Apres
+cette remarque‚ nous deduirons la solution de
+notre Probleme‚ de ce que le fluide doit &tre
+en equilibre dans les canaux G C et B C. Pour satisfaire 3 cette loi‚ et
+pour observet un ordre, nous diviserons 13 solution en trois parties: dans
+⁷ la premiere, nous chercherons la pression totale du fluide B C au point
+C ε dans la seconde, 'nous ferons 13 meme chose 3 l’egard du fluide G C ; v
+et enfin nous ferons le calmi, en faisant les deux pressions totales egales
+entre elles.
+
+1. Soit A C = a; GC, ou bC = b; 13 cherchee Bb ς C: qu’on tire
+du centre C deux quarts de cercles infiniment proches p Π, 0 1113 ⁵0st
+C‘p ou Cn = x3 po ou nm = dx31a densite variabie en po ou nm
+= m, la densite uniforme de l'eau (qui couvre le noyau spherique, et qui
+
+ 
+

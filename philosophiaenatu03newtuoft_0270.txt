@@ -1,0 +1,55 @@
+222 DE CAUSA PHYSICA FLUXUS
+
+distantiae ab axe, et vires quibus urgentur versus planum oequatoris‚ sunt*
+ad se invicem, ut illarum distantiae ab hoc plano.
+
+Cor, ⁶2. Repraeseutet A vim qua sphaerois rurget particulam in axis ter-'
+mino A sitam, B vim qua idem solidum urget particulam Β in circum·
+ferentia circuli medii inter A
+et a positam ς sumatur K R ad
+
+K C, ut -Ἱ-ᾼ- est ad E, jun-
+Ω Α C B
+gatur P R, et particula P ten-
+det versus sphaeroidem in rec-
+ta P R, vi quae huic rectae
+semper est proportionalis. Vis
+enim qua particula D urgetur
+versus centrum solidi, est ad
+B, ut C D ad C B, per Cor.
+2. Lem. ΙΙΙ. Similiter vis qua particula K urgetur versus solidi cen?
+trum est ad A, ut C K ad C A. Quare per Lemma IV. vis qua parti-
+cula P urgetur secundum rectam P K axi normalem est ad vim, quii ur-
+P K >< B ‹xd C K >< A ,
+c Β “ c A ’
+adeoque ut P K Χ Κ C ad C K Χ Κ R. i. e. ut P L ad K R ex con-
+structione. Quare particula P urgetur secundum rectam P R, his viri-
+bus conjuuctis, et vis composita est ad B, ut P R ad B C. Quo veroj
+
+pactorvires A et B computari possint, postea ostendemus.
+
+ 
+
+getur secundum rectam P D axi parallelum, ut
+
+ 
+
+ 
+
+PROPOSITIO L—'THEOREMA FUNDAMENTALE.
+
+Constet sphaerois A B a b materia fluida, cujus particuloe versus se
+mutue) urgeantur viribus in inversa duplicata ratione distantiarum decres-
+centibus; agamque simul duae vires extranee in singulas fluidi particuq
+las, quarum altera tendat versus centrum sphaeroidis‚ sitque semper pro-
+portionalis distantiis particularum ab hoc centr03 altera agat secundum
+rectas axi solidi parallelas, sitque semper proportionalis distantiis par-
+ticularum a plano Β b axi normali ; et si semi-axes C A, C B ellipseos'
+generatricis sint inversae proportionales viribus totis, quae agunt in parti-
+culas aequales in extremis axium punctis A et B sitas, erit totum fluidum
+in aequilibrio.
+
+Ut haec Propositio nostra primaria clarissime demonstretur, ostende-
+mus miprimis vim. compositam ex gravitate particulae cujusvis P et dua-
+bus viribus extraneis, semper agere in recta P L, quae est ad superficiem
+

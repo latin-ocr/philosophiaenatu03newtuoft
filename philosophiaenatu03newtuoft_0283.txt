@@ -1,0 +1,57 @@
+i
+
+j
+
+ΕΤ REFLUXUS MARIS. ι 233
+PROPOSITIO V.-PROBLEMA.
+
+Invenire vim V quce oritur ex inaequali gravitate partium Terroe vermis
+Solem, et definire ascensum aquae hinc oriundum.
+
+Sit S Sol, T Terra, A B a b orbitav lunaris neglecta excentricitate‚ B
+
+θ et b quadraturae. Designet S tempus periodicum Terrae-circa Solem, L
+
+tempus periodicum Lunae circa Terram, l tempus quo Luna circa Ter-
+ram revolveretur in circulo ad distantiam mediocrem T d (= ὲ C A -Ι-
+ὲ C B) si motus Lunae gravitate sua versus Solem nullatenus turbare-
+tur, et sola gravitate versus Terram in orbita retineretur.
+
+Designet porro K gravitatem mediocrem Lunae vel Ter· a
+
+rae versus Solem, g gravitatem Lunae versus Terram in Τ B
+mediocri sua distantia, v vim quam actio Solis huic gra- ι’
+
+vitati adjiceret· in quadraturis ad eandem distantiam.
+
+His positis, eritv ε Κ :2 dT ⁶. ST; atque 14:3³²&
+dT
+
+ζ --. ex vulgari doctrina virium centripetarum ; unde v ε
+
+l l
+
+g :2 ll ζ S S t cumque ll sit paulo mimis quam L L, {ti-*gs
+quoniam Luna nonnihil distrahitur a Terra gravitate suii
+
+in Solem, patet vim v esse ad g in paulo minori ratione
+
+quam L L ad SS. Hanc autem rationem vis v ad g nemo hactenus
+(quantum novi) accurate definivit 3 ea tamen propior videtur esse rationi
+LL ad SS -ί- 2LL vel saltem rationi LL ad SS -Ι- {LL quam
+rationi L L ad S S. Argumenta vero quibus id 'colligitur hic omittenda
+censeo, moniti Academiae illustrissimae memor, clim in hac disquisitione
+parvi sit momenti quaenam harum ,rationum adhibeatur. Supponamus
+igitur cum Newtono v ε g 2: L L : S S 2: (per computos astronomicos
+periodorum Solis ac Lunae) l z 178‚725. Vis V quae in Terrae superficie
+vi v respondet, est ad v, ut Terrae semi-diameter mediocris ad distantiam
+Lunae mediocrem vel ut 1 ad 6οὲ. Vis autem g agit secundum rectas,
+quae in centro gravitatis Terrae ac Lunae concurrunt, cujus ratione ha-
+bita ex incremento gravitatis in descensu ad superficiem Terrae patebit
+vim V esse ad G (qua gravitas mediocris in superficie Terrae designatur
+ut supra) ut 1 ad 38604600. Unde cum per Cor. 2. Prop. ΙΙΙ. sit
+x ε dt: 15 V: 8 G—57‡⁵‡ V erit in hoc casu x: d z: 1 : 20589116.
+Cumque semi-diameter Terrae mediocris sit pedum 196158003 hinc se-
+quitur totum aquae ascensum ex vi Solis oriundum fore pedis unius Pari-
+siensis cum 593255010535 partibus pediS, i. e. pedis unius cum digitis decem, et
+

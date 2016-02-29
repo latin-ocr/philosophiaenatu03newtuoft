@@ -1,0 +1,95 @@
+92 PHILOSOPHIAE NATURALIS [DE Mum). SYs’r. ⁷
+
+PROPOSITIO XXIV. THEOREMA XIX.
+‘fluxum et refluxum maris ab actionibus Solis ac Lunae oriri.
+
+Mare singulis diebus tam lunaribus quam solaribus bis intumescere
+debere ac bis defluere, patet (f) per Corol. 19. et 20.'Prop. LXVI. Lib.
+
+Ι. ut et (8) aquae maximam altitudinem, in maribus profundis et liberis,
+V appulsum luminarium ad meridianum loci minori quam sex horarum
+spatio sequi, uti fit in maris Atlantici et AEthiopici tractu toto orientali
+inter Galliam et Promontorium Bonae Spei ut et in maris Pacifici littore ¹
+Chilensi et Peruviano: in quibus omnibus littoribus aestus in horam cir-
+citer secundam, tertiam vel quartam, incidit, nisi ubi motus ab oceano
+profundo per loca vadosa propagatus usque ad horam, quintam, sextam,
+septimam aut ultra retardatur. Horas numero ab appulsu luminaris
+utriusque ad meridianum loci, tam infra horizontem quam supra, et per
+horas diei lunaris intelligo vigesimas quartas partes temporis quo Luna
+motu apparente diurno ad meridianum loci revertitur. Vis Solis vel
+Lunae ad mare elevandum maxima est in ipso appulsu luminaris ad meri·-
+dianum loci. Sed vis eo tempore in mare impressa manet aliquamdiu et
+per vim novam subinde impressam augetur, donec mare ad altitudinem
+maximam ascenderit, id quod fiet spatio horae unius duarumve, sed
+
+extimi dierum 16.688.
+
+. Sumptis logarithmis
+erit
+
+globi contigua, quare fluet in alveo refluetque
+per vices perpetuo (per Cor. 19. et 20.) idem
+postea iterum demonstrabitur, viresque Solis et
+Lunae seorsim computabuntur·
+
+(⁸) ³* Aquae maximam altitudinem. Rem ἰῐὲ
+se habere patet ex observatis aestibus marinis, ra·-
+tio autem haec est. Vis Solis vel Lunae ad
+mare elevandum maxima est in ipso appulsu lu-
+minaris ad meridianum et postea decrescit, atta-
+men hujus vis effectus nondum est maximus.
+Omnis enim motus semel impressus perseverat
+uniformiter, donec motu contrario destruatur vel
+
+L. — 69.681 = 4.8431144
+L. dierum 27.821 = 1-4564966
+
+ι--.--
+
+utriusque log. summa = 6.2796110
+
+Deinde L. 302} = 2.4805818
+Log. dier. 16.688 = 1.2224o43
+
+——.——
+
+utriusque summa = 3. 7029861
+
+Haec subtrahatur a summa superiori (5.2796110
+remanet log. 2.5766249‚ cui respondet numerus
+378- fere. Quare ex analogia Newtoni et cal-
+culo colligitur variationem satellitis esse partem
+378 variationis Lunae circiter. Sed variatio-
+nem Lunae maximam in apogaeo Solis deinceps
+determinat Newtonus 83¹. 14⁰. sive 1994''.
+Quare pars 378. est 5⁰. 15⁰¹ ut Newtonus in-
+venit, quamproxime.
+
+(s) '¹' Per Cor. 19. et 20. Si fluidum in al-
+veo ‘persuperficiem cujusvis planetae excavato
+contineatur, simulque cum planeta motu diurno
+periodica uniformiter revolvatur, partes singulae
+hujus fluidi per vices acceleratae et retardatae in
+syzygiis suis, hoc est, in meridie et media nocte
+velociores erunt; in quadraturis sive hora sexta
+matutina, et vespertina tardiores quam superficies
+
+saltem retardetur. Hinc fit ut fluxus maris pet
+sex circiter horas ante-meridianas auctus et cum
+motu diurno conspirans acceleratus, majori cele-
+ritate ulterius pergere debeat et aquas magis ⁴
+magisque attollet, usque dum eadem vis motui
+diurno contraria fluidi cursum paulatim sistat et
+aquas cogat refluere. Haec motus retardatio
+maxime circa octantae sive horam tertiam nott·
+bilis est. Alia non desunt exempla maximorum
+effectuum qui post causas maximas contingunt.
+Non in ipsis solstitiis aestivis maxime fervet m-
+tas, sicut neque in ipsis solstitiis hybernis maxi-
+me friget hiems3 sed integro circiter mense post
+solstitia maximus deprehenditur aestatis hyemi·-
+que effectus. Indubitate. quoque constat expet-h
+
+entia summum calorem secunda aut tertia pest
+meridiem hora fieri.
+

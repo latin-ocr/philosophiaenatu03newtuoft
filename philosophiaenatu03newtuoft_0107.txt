@@ -1,0 +1,100 @@
+Lmnn Tnnrms] PRINCIPIAMATHEMATICA. f 59
+
+descendunt in latitudine Lutetiae, est ad vim centrifugam corporum in
+aequatore 'a T errae motu diurno oriundam, ut 2174 ad 7‚54064·,
+
+Vis centrifuga corporum¹ in aequatore Terrae est ad vim centrifugam,
+quii corpora directe tendunt a Terrfi in latitudine Lutetiae graduum 48.
+50'. 10''‚ (⁰) in duplicat& ratione radii ad sinum complementi latitudinis
+illius, id est, ut 7‚54064 ad 3,267. Addatur haec vis ad vim quii gravia
+descendunt in latitudine 1115 Lutetiae, et corpus in latitudine illa vi totfi gra.
+vitatis cadendo, tempore minuti unius secundi describet lineas 2177,267‚ ¹
+seu pedes Parisienses 15 dig. 1. et lin. 5267. Et vis tota gravitatis in
+latitudine illa erit ad vim centrifugam corporum in aequatore Terrae ut
+
+2177‚267 ad 7‚54064 seu 289 ad 1.
+
+v. gr. si 57226 hex. sumatur, erit iste sinus ver-
+sus linearum 7. 56244, idedque vis qu& gravia
+descendunt in latitudine Lutetiae‚ est ad vim
+centrifugam corporum in aequatore ut 2173.
+828958 ad 7. 56244.
+
+(⁰) 81. '¹' In duplicat& ratione raclii. Qua-
+drans circuli A E D revolvatur circ& radium
+A C, ducatur radius C D ad A C normulis, ip.
+
+ 
+
+sique pai-allelu agatur ordinata E F, erit vis cen-
+trifugn iix-D secundum directionem D C sive
+E F, ad vim centrifugam in E secundum direc-
+
+tionem C E, in ratione duplicata radii C D adi,
+
+ordinatam E F quae est sinus complementi arcus
+seu latitudinis E D. Exprimat enim D v
+vim cer-trifugam in D seeundum directionem
+D C, et recta Ε y, exprimat vim ceutrifugam in
+E secundum directionem E F, ducta perpendi-
+culari y x ad rectam E C, exprimet E x, vim
+centrifugam in E, secundum directionem E x,
+sed est, Dv: Ey=D C: EF (Cor. 3.
+Prop. lv. Lib. 1.) et ob, triangula rectangula
+Exy‚EFC similia, Ey: Ex== EC vel
+D C z Ε F. Quare, componendo D v: E x
+=DC²,EF2. Q.e.d.
+
+⁰ Verum si meridianus Terrae sit alia curva
+
+quam circulus ν, gr. sit ellipsis, vis centrifuga
+corporum in aequatore Terrae est ad vim centri-
+fu am qua corpora perpendiculariter a Terra re-
+ce unt in latitudine data, in ratione composita
+ex ratione radii ad sinum complementi latitudinis
+illius, et ex ratione radii aequamus, ad ordinatam
+ejus ellipseos in ea latitudine datin hinc pro el-
+lipsi ratio vis centrifugae in aquator-e ad vim
+centrifugam in latitudine daea exprimetur hoc
+modo: sit m axis major, n axis minor, r radiuss,
+c sinus complementi latitudinis quaesitae, erit
+
+vis in aequatore ad vim in ea latitudine, ut
+Ἢ
+
+mrffm² >< 12—c2-1-n2c2adn2c2 ut
+facile deducetur ex ellipseos naturzi ; quare si
+fingatur m = 250 et n= 229 juxta Newtonum
+
+invenietur calculo eas vires esse inter se ut
+
+ 
+
+7.56244 ad 3.0966o‚ addatur haec vis ad vim
+quii gravia descendunt in latitudine Lutetiae, et
+
+vis tota gravitatis (in Hyp. assumptis) efficeret γ
+
+ut gravia cadendo describerent lineas 2176.
+92558. Unde vis tota gravitatis in latitudine
+Lutetiae erit ad vim centrifugam corporum in
+aeq‘uatore Terrae ut 2176. 92558 ad 7.56244
+sive ut 287. 86 ad l. ⁶
+
+Haee autem vis gravitatis in lafltudine Lutetiae
+non est vis ipsa gravitatis in aequatore, de qud
+agitur in reliqu& hic Proposifione, sed parum ab
+efi differt, ita ut calculo quodam >inito inveniatur
+quod hoec vis gravitatis in latitudine Lutetiae sit
+ad vim gravitatis in aequatore (Terra uniformiter
+densa supposita), ut 1532 ad 1551 ideoque sit
+vis gravitatis in aequatore ad vim ejus centrifu-
+gam ut 287.67 ad 1. Quas quidem varias cor-
+rectiones, Newtouianis numeris adpficamus, ut
+inde liqueat, quod quamvis numeris ut ita dicam
+mediocribus sit usus Newtonus et saepe ex hypo-
+thesi Terrae sphaericae ductis, parum mutationis
+tamen adfuturum sit, etsi assumantur alii nu-
+meri qui ex veriore Terrae figura deduceren-
+tur. ·
+

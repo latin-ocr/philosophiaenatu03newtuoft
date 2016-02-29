@@ -1,0 +1,54 @@
+108 TRAITE‘ SUR LE FLUX
+
+bant, vers A. On voit donc que l'effet de l’attraction du corps A sur le⁴
+corps Β, est de communiquer εὶ celui-ci une pesanteur, qu’on suppose
+proportionnelle εὶ 13 masse du corps A divisse par le quarre de 13 dis-
+tance3 et cette pesanteur doit encore etre multipliee par 13 masse du
+corps B, pour avoir la force que ce corps exerce s'il est empeche de s'ap-
+procher du corps A.
+
+PROBLEME.
+s
+IL—Soit une couche spherique homogene, infiniment minoe, et d’une 3 ·
+§paisseur egale‚ comprise entre les surfaces spheriques M N O R et
+P L Q S, trouver l’attraction, ou la force acceleratrice, que cette
+couche exercera sur un corps place au point B, pris hors de 13 surface
+exterieure.
+
+SOLUTION.
+
+Qu’on tire] 13 droite B O par le point B et le centre C, dans laquelle
+on prendra deux points infiniment proches J et i: on tirera ensuite les
+deux perpendiculaires J L et i l, et par les points L
+et l, on tirera du centre les droites C N et C n. Soit
+&presentCB=a; CJ =x3 Ji= dx3 CP=
+b; P M ou L N (que nous regardons comme infini-
+ment petite) = C: 13 densite de 13 matiere de la
+couche = m.
+
+On voit que pendant la revolution autour de l’axe
+M O, la petite partie N L ln garde toujours une
+meme distance du point B, et que cette distance
+sera = V (aa—an ÷ bb): or, commeilfaut
+toujours diviser par le quarte des distanees, il fau-
+dra pour *trouver la 'force acceleratrice en question d'abord prendre
+
+1 ’ , et cette quantite doit ἐπε multiplice par la raison de
+
+m
+
+Β i εἴ Β l, et on aura -ssff—‘LE— ε et cette quantine doit encore
+(aa-eux ÷bb){
+
+etre multipliee par 13 masse de l'anneau‚ que 13 partie N L n l forme par
+
+sa revolution, et la masse doit &tre exprirnee par 13 densite m et 13 capa*
+
+cite de l'anneau, c’est-si-dire (en nommant n 13 raison de la circonference
+
+d'un cerclesson rayon) parm >< NL>< lenxLJ: oupar
+
+ 
+
+ 
+

@@ -1,0 +1,124 @@
+ 
+
+met Tam-ma] PRINCIPIA MATHEMATICA. ,
+
+39
+
+distantiis a Sole collocandi erant planetae, ut quilibet pro gradu densitatis
+
+calore Solis majore vel minore frueretur.
+
+Aqua nostra, si Terra locare-
+
+tur in orbe Saturni, rigesceret3 si in orbe Mercurii, in vapores statim
+
+abiret·
+
+Nam lux Solis, cui calor proportionalis est, (⁰) septuplo densior
+
+est in orbe Mercurii quam apud nos: et thermometro expertus sum
+quod septuplo Solis aestivi calore aqua ebullit. Dubium vero non est quin
+materia Mercurii ad calorem accommodetur, et propterea densior sit hac
+nostra 3 cum materia omnis densior ad operationes naturales obeundas
+
+majorem calorem requirat.
+
+(⁰) * septuplo densior est. Nam (14. Lib. Ι.)
+densitas lucis decrescit in ratione duplicata dis-
+tantiarum a Sole, sed (Phren. IV.) distantia
+Terrae est ad distantiam Mercurii ut 1000 ad
+387. proxime. Est igitur densitas lucis in Mer—
+curii ad densitatem lucis in Terra ut 1000000
+ag 149769 seu ut 6368 ad 1, hoc est fere ut 7
+a 1.
+
+'¹ Addit Newtonus: thermometro ezqmtus
+sum qwnl septuplo Solis aestim· calore aqua elml-
+lit.- haec videntur referri ad n. 270. Transac-
+tionum Philosophicarum, qui continet scalam
+de caloris gradibus, ingeniose sane constructam,
+cujus author non indicatur: ‘⁶ Constructa fuit
+‘⁴ haec Tabula ope thermometri et ferri canden-
+“ tis. Per thermometrum ex oleo lini construc-
+“ tum inveni (inquit author) quod si oleum ubi
+“ thermometer in nive liquescente locabatur
+“ (computus enim in hac Tabula inchoatur a ca-
+“ lore quo aqua incipit rigescere tanquam ab in-
+“ fimo caloris gradu seu communi termino ca—
+“loris et frigoris) occupabat spatium partium
+“ loooo idem oleum calore corporis humani
+‘⁶ rarefactum occupabat spatium 10256 et calore
+“ aquae jamjam ebullire incipientis spatium
+“ 10705 et calore aquae vehementer ebullientis
+“ 10725, et calore stanni liquefacti ubi incipit
+“rigescere 11516, &c- ; rarefactio a'e'ris aequali
+‘⁶ calore fuit decuplo major quam rarefactio olei
+‘⁸ quasi quindecim vicibus major quam rarefactio
+“ spiritus vini. Et ex his inventis ponendo ca-
+
+“ lores olei ipsius rarefactioni proportionales et=.
+
+⁸⁴ pro calore corporis humani scribendo partes 12
+‘⁴ prodiit calor aquae ubi vehementer ebullit par-
+“ tium 84:” In eadem autem Tabula ponendo
+calorem corporis humani 12, ponit calorem a'e'ris
+aestivi 4, 5, vel 6. Quare medium assumendo,
+est ut quinque ad 54 sive proxime ut l ad 7, ita
+calor a‘e'ris aestivi ad calorem aquae ebullientis:
+qui ergo septuplus est caloris a'eris aestivi secun·
+'dum assertum Newtonianum.
+
+Disputari autem posset, quod calor rarefac-
+tioni olei proportionalis supponatur absque suf-
+finienti ratione, et quod terminus a quo rarefac-
+
+tio ea numerari incipit (is nempe gradus frigoris
+quo aqua incipit rigescere) sit ad arbitrium as-
+sumptus; cum ea rarefactio numerari debuisset
+ab absoluto frigore, eo nempe frigoris et gradu
+quo partes olei nullam ulteriorem compressionem
+per vim frigoris pati possent, qui gradus est ig-
+
+notus; at hujus Tabellae constructio, ingeniose ”
+
+demonstratur ab eodem Autore per fem can-
+dentis refrigerationem; locavit enim ferrum
+candens in vento uniformiter spirante, ut a'e'r a
+ferro calefactus semper abriperetur a vento, et
+a'er frigidus in locum ejus uniformi cum motu
+succederet, sic enim a'eiris partes aequales aequali-
+bus temporis calefactae sunt et concipiebant ca-
+lorem calori ferri proportionatam; hinc si divi-
+datur tempus refrigerii ferri in instantia aequalia,
+erit, ut totus calor ferri initio primi instantis, ad
+calorem durante eo instanti amissum: sic calor
+ferri initio secundi instantis ad calorem durante
+eo secundo instanti amissum, διο. ide6que finga-
+tur lineam rectam duci cujus abscissae designent
+tempora; ordinatae in extremis abscissis erigan-
+tur, quae calores ferri singulis momentis desig-
+nent; differentiae earum ordinatarum erunt iis
+ipsis ordinatis proportionales geometrice, ide6-
+que curva per earum ordinatarum vertices uan-
+siens erit logarithmica, crescentibus ergo tem-
+poribus arithmetice, calor ferri geometrice de-
+crescit et propterea calorum eorum geometri-
+ca ratio per logarithmorum Tabulam haberi po-
+terit.
+
+Quo supposito, imponebat Autor candenti
+ferro particulas diversorum metallorum, et alio-
+rum corporum liquabilium, et notavit tempora
+refrigerii donec particulae omnes amissa fluidi.
+tate rigescerent, et tandem calor ferri aequaretur
+
+calori corporis humani 3 binc calores omnes qui- Ι
+
+bus cera, bismuthum, stamnum, plumbum, re-
+gulus stibii, eorumque variae miscelae liquescunt,
+innotuere, sive eorum geometricae rationes, cnm-
+quef calores ita inventi earndem habuerint inter
+se rationem cum caloribus per thermometmm
+inventis, propterea recte assumptum fuit, rare-
+factiones olei ipsis caloribus esse proportionales.
+

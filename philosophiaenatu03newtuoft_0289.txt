@@ -1,0 +1,59 @@
+ 
+
+ET REFLUXUS MARIS. 241
+
+PROPOSITIO VIII.-PROBLEMA.
+
+Invenire variationem ascenszis aquae in Prop. V definiti, quae ex figurd
+T eme sphaeroidicd provenit.
+
+Sint P A p a, P B p b sectiones Terrae per polos P et p, quarum
+prior transeat per loca A et a, ubi altitudo aquae in aequatore viribus
+Solis et Lunae fit maxima, posterior per loca B et b
+ubi fit minima3 sint hae sectiones ellipticae, F focus
+
+'figurae P A p a, f focus sectionis P B p b, et ,g
+focus sectionis A B a b. Et si omnes sectiones solidi
+per rectam A a transeuntes supponantur ellipticae
+calculo ihito ope Lemmatis V. invenimus gravita-
+tem in loco A versus solidum hoc fore ad gravita-
+tem in eodem loco versus sphaeram centro C super
+3 C F 2 -1- 3 C g 2
+
+lo C A 2
+
+9CF⁴ -ι- 6CF2 >< Cg²÷ 9Cg¹ &c qd CA2 , etsi avi-
+
+V 560A⁴ ’ '‘ CBxCP' gr
+
+tas in loco B, definiatur simili calculo, ope ejusdem Lemmatis et schol.
+
+Prop. II. constabit ratio gravitatis in A ad gravitatem in Β, et per Cor. 2.
+Prop. I. innotescet semi-diametrorum C A et C B differentia sive ascensus
+aquae. Verum calculum utpote prolixum omittimus, cum sit exigui usfis.
+Hfic Propositione ostendere tantum volui geometriam nobis non defutu-
+
+ram in Problemate celeberrimo accuratissime tractando. Verum restat
+praecipuus in hac disquisitione nodus, de quo pauca sunt addenda.
+
+ 
+
+diametrum A a descriptam ut 1 -f-
+
+-Ι-
+
+PROPOSITIO IX.-—PROBLEMA.
+
+Invenire vim Lunae ad mare movendum.
+
+Haec ex motibus coelestibus colligi nequit, si vero conferetur ascensus
+aquae in syzygiis luminarium, qui ex summa virium Solis et Lunae
+generatur, cum ejusdem ascensu in quadraturis, qui ex earundem diffe-
+rentia oritur, ex vi Solis per Prop. V. data, invenietur vis' Lunae. Hanc
+quaerit Newtonus ex observationibus a Sam. Sturmio ante ostium Fluvii
+Avonae institutis, ex quibus colligit ascensum aquae in syzygiis aequinoc-
+tialibus esse ad ascensum aquae in quadraturis iisdem, ut 9 ad 5. Dein
+
+post varios calculos concludit vim Lunae esse ad vim Solis, ut 4.4815 ad l,
+S 8
+

@@ -1,0 +1,145 @@
+met Taurum] PRINCIPIA MATHEMATICA„ -
+
+6⁹
+
+Quinetiam gravitatem per rotationem diurnam Terrae nostroe minui
+sub aequatore‚ atque ideo Terram ibi altius surgere quam ad polos (si
+materiaejus uniformiter densa sit) patebit per experimenta pendulorum
+quae recensentur in Propositione sequente.
+
+p a ¹¹ ⁴* ¹ fa²
+n 4- 1) a ¹¹ 2a
+jam vero quia fluidum in utroque crure C A,
+
+C D consistere debet in aequilibrio, opor-'tit 1ut
+p a
+
+tum fluidi in crure C A, est
+
+ 
+
+pondera sint aequalia, ac proinde, W·
+fa p r ¹³ 4 ¹ f h h rr x ,
+- 3: W-T, unde enutur
+
+2pr¹²÷¹--(n÷l)fhha¹¹—¹rr=(2p
+—nf—f)a¹¹÷¹. Ope hujus aequationis fa—
+cile invenitur diametrorum proporti03 si euim
+fiat h = o. radius r abit in C P, habeturque
+2pr¹¹÷¹=(2p—nf—f)a¹¹÷¹‚hocest,
+CA=CP=(2p)-ffl·:(2p—nf-f)÷
+
+n -l- ι’ Α
+
+ln hypothesi gravitatis uniformis, fit n = o,
+idefique C A t C P=2p2 2p—f. Quo-
+niam vero in Terra gravitas eat ad vim centrifu-
+gamut289ad 1, eritCA: CP=5782 577,
+prout Hugenius invenit. At in hypothesi gra-
+vitatis in ratione duplicati distantiarum a centro
+decrescentis, erit n = — 2, ideoque C A ι C P
+=2p f229=5792578.
+
+⁸ {35- erum hat hypotheses in huc formula
+invenienda assumptae cum rei natura et Nevv-
+toniano systemate neutiquam quadrant, ideoque
+locum habere nequeunt: primum enim gravita-
+tem ad centrum Terrae dirigi verum non est si
+Terra sit sphaerois qualiscumque, quippe ex ipso
+facto constat gravitatis directionem esse perpen-
+dicularem superficiei aquarum, sive ease perpen-
+dicularem curvae quam meridianus quilibet affee-
+tat3 sed perpendiculares ad curvam a circulo
+diversam ad ejus curvae centrum neutiquam ten-
+dunt nisi in sola axium extremitate.
+
+20. Gravitatis quantitas in variis punctis su-
+perficiei solidi ratione curvae alicujus geniti non
+
+ 
+
+sequitur rationem ullius dignitatis distantiarum a
+
+centro, sed aliam omnino legem juxta formam
+solidi, hoc est, juxta naturam curvae illius quam
+meridianus affectat, et locum in quo corpuscu-
+lum atmhendum locatur, ut satis liquet ex eo
+artificio quo Nemonus usus est ad determinan-
+dam rationem gravitatis in puncto A ad gravita-
+tem in puncto Q, unde gravitatis in variis locis
+proportio non per dignitatem aliquam distantia-
+rum, sed per rationes seriarum, quales eas in
+nota (²) invenimus, sunt exhibendae3 quamvis
+ergo verum sit in systemate Nevvtoniano gravita-
+tem decrescere ut¹ quadrata distantiarum a quo-
+cumque corpore collecto in centro suae gravitatis
+quasi in uno puncto, idem verum non erit si id
+corpus figura sphaerica non donetur, et eorpus-
+
+culum attrahendum juxta divum panes ejus
+solidi collocemr3 hinc ubi in formanda generali
+formula assumitur quod gravitas in Δ sit ad gra-
+vitatem in D ut a* adi-⁸ ide6que gravitatunin
+
+P ³ ⁸, id omnine, advems theoriam gmi-
+
+ 
+
+D esse a
+
+a
+tatis Newtonianam deducitur-3 quod autem haec
+formula nou multum a vero aberret, orimr ex
+eo quod revera figura Terrae a sphaera papa-
+rum discrepet. ·
+
+86. Vis centripeta vel centrifuga eorporis cir-
+culum describentis est in ratione directa radii et
+duplicata inversa temporis periodici (Cor. 2.
+Prop. IV. Lib. L). Quare si distantia planeta
+a centro Solis vel distantia satellitis a centro pla—
+netae primarii dicatur D, tempus periodicum T,
+radius ipsius planetae cirea quem motu diurno
+revolvitur R, gravitas versus centrum revolutio-
+
+nis eritTPT3 si autem haec gravitascresoet in
+
+ratione duplicata inversa distantiarum, erit gravi-
+tas planetae in eo in quo nunc. versari supponitur
+loco, ad illius gravitatem, si positus fi in
+superficie corporis centralis circa quod revolvitur,
+ut R. R ad D D, ideoque foret gravitas planeta
+D ³
+R R T T·
+vero cum vis centrifuga planeta positi in aqua·-
+tore corporis circa quod revolvitur, sit in ratione
+directa radii hujus planetae et inversa duplicati
+temporis revolutionis circa axarn, si tempus peri-
+odicum circs axem dicatur t vis centrifuga F,
+
+erit F = tl} unde si vis gravitatis in superfi-
+cie corporis centralis dicatur P, erit P: F=
+R———ss{„r= tR—t= na xt221t³>< ΤΤ.
+
+90. Distantia D, quarti satellitis Jovialis a
+centro planetae primarii sit 26.oe semid- Jovis,
+prout a Newtono in fine Phaenomeni 11. deter-
+minantur, et tempus periodicum T = 16 dieb.
+18¹². 5'. 7''. prout a Cassino in novis Elementis
+Λευ-ου. traduntur. Semi-diameter Jovis R= 1,
+tempus periodicum Jovis circa axem t = 9¹¹,
+55'. 52⁰. ito in formula generali (87) n=
+—2, habetur C Ax CP=2p÷f2 2p‚vel
+CA—CP: CP=f22p,autCA—CP:
+cP=R³TT=2D³tserititaque iubae
+hypothesi gravitatis pro Jove C A — C P ς C P
+2——D;·{tt= 1: ll} quae differentia
+inter semi-diametrum secundam aequawrem Jo-
+vis et semi-diametrum inm polos quampmximt}
+aequalis est differentia quam Newtunus ex ma
+methodo derivavit.
+
+in superficie hujus corporis ut Jam
+
+=1:
+

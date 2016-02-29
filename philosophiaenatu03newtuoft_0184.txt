@@ -1,0 +1,55 @@
+136 TRAITE' SUR LE FLUX
+
+COROLLAIRE.
+
+IL—Si G g = ᾖ C, il faut que B b soit = ξ, C, et par consequent double
+de l'autre. Ainsi donc l’eau monte deux fois plus autom· de la ligne,
+qui passe par le centre de l’un des luminaires, et celui de la Terre,
+qu'elle ne descend a la distance de 90 degres.
+
+PROBLEME.
+
+III.—Si l’on tire du centre C une droite quelconque C y, trouver la
+petite ligne y z, qui marque la hauteur verticale du point y pris dans
+l’ellipse, par dessus le point z pris dans le cerole.
+
+SOLUTION.
+
+Qu’on tire par le point z la droite C α perpendiculaire εὶ l'axe: on voit
+qu'en consequence de nos hypotheses, l’angle ey z doit etre pris pour un
+droit, et le petit triangle (Σ y z cense semblable au triangle C α z, d’ost
+l'on tire ’
+
+γΖΞὲ-ΖΞΧΕΖ.
+
+Ξοὶῑὲιρϊέεεηῐ C α = ες z α = V b b —s s; on aura par la nature
+de l'ellipse
+ae = {g κ α’-Γαχαυεζ-Ἷῑξξ >< §tw-W),
+Si on change cette quantite en suges, et qu’on rejette toujours les in-
+finiment petits du second ordre, on trouvera enfin
+
+afflffiffiffigff-ss
+
+Q Χ C, et par consequent
+3b Vbb-—ss
+
+’'²²23''bess ειμι
+
+ 
+
+ 
+
+ΧΦ.
+
+ 
+
+ΒΒΙὰοΙιῐίιῈαΕ-αῑ = Cz=
+
+ 
+
+COROLLAIRE Ι.
+
+IV.—Pour trouver les points M, οὐ l'ellipsex coupe le cerole, on n’a
+qu'd faire y z = o, ce qui donne s = b xl ξε 0, 5773 b, et l’arc ο Μ de
+54⁰. 44'.
+

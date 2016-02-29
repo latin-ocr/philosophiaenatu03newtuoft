@@ -1,0 +1,54 @@
+1³26 TRAITE' ‘SUR LE ELUX
+
+p'onde εὶ toute' la colonne G C, il faut encore apres l’integration faire
+x = b.
+
+3. Apres avoir exprime analytiquement les valeurs des pressions
+
+» des colonnes B C et G C, il ne reste plus pour achever la solution de
+
+notre Probleme, qu’a faire une equa-tion entre les deux dites valeurs
+
+trouvees dans la premiere et seconde partie. On aura donc μ G C -Ι-
+
+sdeX-sssngdx—sgnlhlc5HLde=sdex÷sgm3dx
+
+4 J· ·4· n μῙῐὲξΧ d„ · et cetteequation arrangee donne
+
+SuaGabC—s‘lsnffiassmxdx =s15gbm22dx‚
+et de la on tire la valeur cherchee de C, qui est constante 3 savoir,
+
+0=J1Q, C.q.f.t.
+5sshGab—s4nsaamxdx
+
+ 
+
+ 
+
+ 
+
+COROLLAIRE.
+
+VL—On voit par notre solution, que generalement B b doit etre egale
+εὶ Ι) d3 car ,la valeur de C est la meme, soit que l'on prenne x affirmative-
+ment, soit negativement. Aussi auroit-il ete ridicule de supposer la
+courbe B G D H une ellipse, si les deux ‘parties G B H et G D H
+n’etoient pas devenues par le calcul egalement allongees‚ et la supposition
+auroit renferme une contradiction.
+
+Au reste ces deux petites lignes ne seroient pas egales a la rigueur.
+Cette egalite n’est fondee que sur ce que nous avons rejette plusieurs fois
+dans notre solution de certaines petites quantites, mais qu'on pouvoit
+negliger reellement, comme tout-a-fait insensibles, non-seulement par
+rapport a* la ligne B C, mais meme par rapport a la petite ligne B b,
+qui ne scauroit etre que d'un petit nombre de pieds.· Cependant je crois
+encore necessaire d'avertir ici, qu'il faut etre sur ses gardes‚ en rejettant'
+dans le calcul de certains termes; car comme dans l'equation resultante,
+plusieurs termes se detruisent, et qu'il n’en reste que des termes d’une
+f'ort petite valeur, on ne doit rejetter que des quantites qui sont insensibles,
+meme par rapport aux quantites restantes dans l'equation.
+
+Ce n'est qu'avec une telle precaution, que j’ai neglige dans ma solution
+plusieurs termes, et je ne les aurois point negliges, si la fin du calcul nc
+m'avoit enseigne, qu'ils peuvent et doivent &tre negliges.
+

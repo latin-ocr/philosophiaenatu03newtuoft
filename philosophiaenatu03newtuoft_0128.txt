@@ -1,0 +1,144 @@
+80
+
+PHILOSOPHIAE NATURALIS [Dr⁴ Mum). δινεῖ.
+
+eadem circiter ratione augentur arcus graduum latitudinis in meridiano.
+Ideoque cum latitudo Lutetiae Parisiorum sit 48 gr. 50'. ea locorum sub
+
+D. de Maupertuis in Monumentis Paris- an.
+1754. etin Libro de Figura Terrae. Semi-ellipsis
+P A p, referat meridianum sphaeroidis cujus est
+axis P p, diameter νει-ὂ secundum aequatorem
+A a. Ponatur C A= 1, CP=m, C N=x‚
+E N = y erit (ex natura ellipseos per Lem. IV.
+
+ 
+
+de Conicis) EN2: CP²= ANxNa:
+Ac2,ide‹‘›quey2 m²><(l—xx)ety
+= m Μ l — x x. ·Sit G E, radius circuli
+
+ellipsim osculantis in E, is erit (214. Lib. Ι.)
+
+=¹ffi(1—xx -l-mmxx) {-
+
+Quia vero
+
+ 
+
+ 
+
+E K ε = Ε GA><0120 ⁴ (239. Lib. Ι.) erit E K
+
+= m '‘l-:x 2 m 2 x 2. Jam sinus anguli
+
+latitudinis A K E, dicatur s, posito sinu toto
+
+=1, erit 1 z s = m q( l—x2-{-m²x²:
+1 — s s
+
+ 
+
+m γ l-xx, ac proinde xx= m
+
+quo valore substituto, loco x x in expres-
+sione radii osculamus, fiet E G =
+
+( s-—ngf—n-i-——) {- Nunc conferantur si-
+-- -f- m m s s
+
+mul duo gradus meridiani A D, E F, quorum
+unus incipiat ab aequatore‚ alter vero sumatur
+ubivis in arcu A Ρ, sumpto A B, pro radio οἰτ-
+culi ellipsim osculantis in A, erit (92.) A D:
+
+EF=AB2 EG, εεάεςιΑΒΞίἳζ (241.
+
+Lib. Ι.) = m m, quare si gradus A D dicatur
+
+A et gradus E F dicatur E‚fiet A: E =mm:
+m m
+
+ 
+
+Wssac proinde E=A ><
+(1 - S s m m s s)——}. Haec formula ex-
+
+primit relationem inter primum gradum latitudi-
+
+nis et alium quemlibet gradum, atque inter dia·
+metrum et axem.
+
+94. Si quantitas 1 -Ι- m m—s S, evehatur ad
+dignitatem cujus exponens est — ’Ξ- (550. Lib.
+
+1.) erit E = A >< (l —ss-(mm-lhs 4⁵5¹
+χ (mm— l)'s-s1'²—,&c.)velA—E= ἦ Χ
+(m ττι-1) Α S²— 1335(m1n—1)²AS⁴
+-1-, διο. Quia vero sphaerois Terraead tphmram
+proxime accedit, erit sere m = l, ideoque in
+superiori formula negligi poterunt termini in
+quibus quantitas m m— 1, ad altiorem potesta-
+tem evecta occurrit, unde fit pro Tellure 2 A -—
+2E=3(mm-1)><Ass. SiTerraponatur
+versus polos compressa, erit l > m et E > A, ,
+hincque prodit E — A, A S S = 3 Χ (1 —
+m m) ε 2. Quare iterum patet id quod jam de-
+monstravimus (92.) arcus scilicet graduum lati-
+tudinis in meridiano augeri in duplicata rarione
+sinus recti latitudinis.
+
+95. si gradus A D, non computetur abipso
+aequatore, sed ubivis inter A et E sumatur, sit-
+que S sinus anguli latitudini& patet (94.) fore
+
+B 1) = ——(1-ssu:4-mmmSS){³d‘⁶q⁰eA²E=
+
+mm Ξ mm 3
+(l—Ss÷mmSS) '(l—ss4mmss)2''
+acproindeAx(l—ss÷mm ss) }=E χ
+
+(1-ss÷mmSS){· Jam vera motism-
+minis ut supra ad dignitatem cujus exponens ᾖ,
+neglectisque qumtitassiffisjvffiesoenfibus (95.)‚
+313>< (ss—SS)’‘
+
+Si gradus unus ab aequatore, alter a polo
+
+fietl-—mm=
+
+ 
+
+numeretur, erit s = 1, et S = ο, ideoque
+formula praecedens abit in hanc l — m m=
+2 (Ε - A)
+
+3 Ε “
+
+96. Si loco semi-diametrorum C A, C P,
+
+et sinus latitudiuis s ε, in aequatione x x =
+1 - 5¹5- ⁵2¹1„ ss, (98.) substituuntur exire·-
+
+siones quaelibet indeterminatae, aequatio prece-
+dens quatuor continebit variabiles, quarum td.
+bus cognitis quarta innotescet. Quare datia
+semi-diametro aequatoris C A, semi-diame-
+tro paralleli N C vel Ε Q, x, aut quod idem
+est, datis gradu aequatoris et gradu paml-
+leli (sunt enim gradus illi ut ipsimet cir-
+culi, ideoque ut radii) et si'mul cognita le-
+titudine‚ cujus sinus S, dabitur axis ellipeoi-
+dis. Simili prorsus modo ducta qualibet alifi
+ordinata E Q, quae sit alterius paralleli semi-din-
+meter, et mutata utcumque latitudine, institui
+poterit alia aequatio quatuor variabiles continens
+ac proinde duplex obtinebitur aequatio. Jam
+vero quia haec utraque aequatio duas continet in-
+determinatas communes, nempe semi-diametro·
+ellipsis, patet datis duorum parallelorum gradi—
+bus, datisque latitudinibus, per vulgares algebo
+regulas collata simul utrx'ique aequatione, deter-
+minari posse semi-diametrorum rationem. Οε-
+terum haec omnia constructiom'bus geometrici·
+

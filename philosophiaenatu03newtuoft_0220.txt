@@ -1,0 +1,51 @@
+172 TRAITE' SUR LE FLUX
+
+divises par 4, donnent les degres de l'arc, dont le sinus est appelle ς,
+apres quoi on connoit aussi l'arc dont le sinus est appell'e σ, Connois-
+sant ainsi par les tables les quantites g et σ, on trouve sans beaucoup de
+
+peine la valeur de M du §. ΙΙΙ.
+
+VIII.—On voit aussi, que si la distance entre les deux luminaires est·
+entre deux nombres de la premiere colonne, on peut sans aucune erreur
+sensible employer le principe general des interpolations‚ de sorte' que
+cette table ¹peut suffire pour tous les cas. ²
+
+IX.—On remarquera au reste, qu'il est ici de grande importance d'avoir
+
+substitue 13 vraie valeur pour {a et qu'un assez petit changement dans
+
+cette valeur, a une grande influence sur le rapport des mareeS. On ne
+doit donc encore considerer cette table, que comme un exemple de nos
+formules generales: le Chapitre suivant fera voir les precautions que l'on
+doit prendre la-dessus. ’
+
+X.-—Nous voyons tant par les formules que nous avons donnees pour
+les hauteurs des marees, que par la precedente table, qu'elle est in ab·
+stracto 13 nature des variations des marees. On peut faire la-dessus les .
+Remarques qui suivent. Ι
+
+1⁰. Que les changemens des marees sont fort petita tant aux syzygies
+qu'aux quadratureS, et ils seroient infiniment plus petits que les autres,
+si l'intervalle d'une maree a l'autre etoit aussi infiniment petit.
+
+2⁰. Que les plus grands changemens ne se sont pas precisement au
+milieu, mais plus pres des quadratures que des syzygies: c'est—a-dire‚ que la
+
+plus grande diminution des marees se fait dans nos suppositions, lorsque
+
+la Lune est environ ὲ 60 degres (80 avec la correction de 20 degres ex-
+· pliquee au Chap. VII.) depuis les syzygies 3 le plus grand decroissement
+se fait donc de la neuvieme a la dixieme maree (de la douziexne εὶ 13
+treizieme avec la correction): de meme le plus grand accroissement se
+fait ὰ environ 30 degres depuis les quadratures (50 degres avec la correc-
+tion) qui repond au changement de la quatrieme εὶ 13 cinquieme maree
+(de la septieme a la huitieme avec la correction) depuis les quadratures.
+Je parle dans cette remarque de toutes les marees qui se font, tant celles
+du matin‚ que celles du soir, pour rendre leurs intervalles plus petits: on
+se souviendra cependant de ce que J'ai dit expressement, que Je fais ab·-
+straction par-tout ailleurs des marees, qui repondent au passage inferieur
+⁴ de la Lune par le m'eridien, lorsqu’il s’agit 'de comparer les marees entre
+elles: car ces deux sortes de marees ont quelques in‘egalites entre enee,
+que je n'ai pas encore considerees.
+

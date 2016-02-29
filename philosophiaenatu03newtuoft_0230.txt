@@ -1,0 +1,53 @@
+182 TRAITE' SUR LE FLUX
+
+deux cotes donnes = y; le cosinus du troisieme cote oppose a l’angle
+donne, que J'appellerai q, sera exprime par cette equation
+
+q = S s y -Ι- C c.
+. VL-Soit εὶ present A D G K le meridien de la Terre, qui passe par
+16 centre de 16 Lune, et que la Lune repende au point B, qui deviendra
+ainsi 16 pole de l'ellipsoi'de, et 16 droite
+B H, qui passe par le centre O, son axe.
+Soit l'axe de rotation de la Terre A G, les
+poles A et G, D F K l'equateur3 C E L
+un parallele, dans lequel nous prendrons
+un point quelconque E, et qu’on tire enfin
+par ce point E, et par le pole A Parc ⁶
+A E F.
+
+De cette maniere, l'arc A B sera 16
+complement de la declinaison de la Lune;
+l’arc A E sera le compl‘ement de la lati-
+tude du point E, et Parc D F sera l'are
+horaire depuis 16 passage du point E par 16 meridien, qui passe Par 1²²
+
+ 
+
+Lune; de sorte qu'on connoit dans le triangle B A E, les cotes B A et ¹
+
+E A, avec l'angle compris B A E, etde la* on tirera par le moyen du
+Theoreme expose au precedent Article, l'arc B E, qui est 16 distance du
+point E au pole de l'ellipso‘i‘de.
+
+Nous nommerons donc encore 16 sinus total 1, 16 sinus du cote A B = S 3
+son cosinus = C 3 le sinus du cote A E = s, son cosinus = c 3 16 cosinus
+de l’arc D F, qui est 16 mesure de l'angle B A E, = y3 le cosinus de
+l’achE=q:n0usaurons q=Ssy÷Cc.
+
+VIL—Ayant ainsi trouve l’arc B E, il est facile d'exprimer 16 droite
+E Ο, qui est 16 distance du point E jusqu'au centre de l'ellipso'l'de3 par 16
+moyen du 40. Art. qui nous marque que cette distance est toujours egale
+au plus petit demi-diametre‚ augment& par 16 produit du quarte du
+cosinus (16 cet arc trouve, et de l'exces du demi-axe B Ο sur 16 plus
+petit demi-diametre: &est-adire, si¹ nous retenons les denominations,
+dont nous nous sommes servis depuis le IV. §. jusqu'ici, que nous au-
+rons κ EO=b÷(Ssy÷Cc)26..
+
+C'est cette equation (16 laquelle nous devons tirer toutes les variations
+des marees, que 16 deelinaison de 16 Lune et la latitude du lieu peuvent
+produire. μ
+
+V111.-Nous voyons d'abord, que n'y ayant que la lettre y de variable,
+
+la quantit& E O est toujours d'autant plus grande, que l'on prend y plus
+

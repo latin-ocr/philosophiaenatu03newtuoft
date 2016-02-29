@@ -1,0 +1,140 @@
+Limm Tem-ms] PRINCIPIA MATHEMATICA.
+
+79
+
+eodem argumento pondera, in aliis quibuscunque-per totam Terrae super-
+ficiem regionibus, sunt reciproce ut distantiae locorum a centro: (δ) et
+
+propterea, ex hypothesi quod Terra sphaerois sit, dantur proportiones.
+Unde* tale confit Theorema, quod incrementum ponderis pergendo ab
+
+aequatore ad polos, sit quam proxime ut sinus versus latitudinis duplica-
+tae, vel quod perinde est, ut'quadratuin sinus recti latitudinis. (⁶) Et in
+
+forent reciproce ut radii oseulatores curvae, ve-
+rbm ob figuram Terroe prope sphaericam id sub-
+tilius sectari videtur ‘super-fluum, tanto magis
+quod calculorum consequentiae cum experimen-
+- tis sint conferendae, in quibus semper deficiet
+mathematica ἅκςιβιία.
+
+91. (b) ¹* Et propter-eci. Ex hypothesi enim
+quod Terra sit sphaerois, qualem vult New-
+tonus, hoc confit Theorema ; quod scilicet incre-
+mentum ponderis pergendo ab aquatore ad polos
+sit quamproxime ut sinus versus latitudinis dupli-
+cem, vel quod perinde eet, ut quadratum sinas
+recti latitudinis. Sit enim A P B A, ellipsis quoe
+
+ 
+
+referat meridianum Terrae et A R B L A, cir-
+culus radio C A, descriptus ad quem ellipsis
+A PB A proxime accedit, sitque radius C A
+semi-diameter aequatoris terrestris, erit (ex natu-
+τᾶ ellipsis 247. Lib. 1.) R 1²2 M G= C R z
+E M, idesque M G = R PC><RE M. sed
+propter triangula D M G, E M C, similia, ubi
+ellipsis ad circulum proxime accedit (tunc enim
+D G, sumi potest pro recti tangente ellipsim in
+puncto D, et ea tangens est quam proxime per-
+pendicularis radio D C) est M G ι Μ D=
+
+MCzVMEacproindeMG=MDXMC
+
+RPXME—MDXMCME
+CR “” ΜΕ
+Μ D = R PCXRBZ ΕΞ. Jam vero ex puncto
+
+M, ducatur perpendicularis M m ad rectam F e,
+erit e m sinus versusarcfisduplicatis A Μ, hoc
+
+ 
+
+ 
+
+erit ergo
+
+ 
+
+ 
+
+,unde fit
+
+ 
+
+est, arcus Μ e, sive quia A Μ exhibet latitudi-
+nem (10) erit e m, sinus versus latitudinis dupli-
+catae3 sed est e m Χ e F =e M ² (ex proprie-
+tate circuli). Quare ob datam e F, est e m ut
+e M ², vel etiam ut M E ² ideoque M D, est ut
+R P >< e m R P
+
+W, vel ob datas C R? fit M D, ut
+
+e m, sive ut M Ε ²· Quia vero pondera in
+locis A et D sunt ut distantiae locorum a centro
+reciproce (cx dem.) erit incrementum ponderis
+
+1 1
+
+inD.utC D—ffl-,hocesgutCA—CD‚
+
+vel ut C M — C D ideoque ut M D. Quare
+incrementum ponderis, &c-
+
+(ο) 92. ⁸ Et in eadem circiter ratione. Mini.
+mus arcus circuli curvam aliquam in dato puncto
+osculantis pro arcu infinitesimo curvae in hoc
+puncto usurpari potest (121. Lib. 1.). Sed in-
+tegri gradus sunt ut minimi arcus similes. arcus
+autem illi sunt ut radii circulorum curvam oscu-
+lantium; quare gradus integri erunt ut iidem
+radii, Erit itaque s in loco D, ut radius
+circuli ellipsim ibidem osculanti& et gradus in
+loco A, itidem ut radius circuli ellipsim oscu.
+lantis in eodem puncto A. Jam vero ductii per-
+pendiculari C N, ad tangentem D N, sumptoque
+D r, pro radio osc-uiatore in D, erit Dr ut D k 3,
+sivequiaest C P²= C N Χ Dk (ibid.) ob
+
+datam c 1³² erit Dk ut 5¹51.. ide6que maius
+
+circuli qui est ut D k3, erit ut iffi„ hoc ωε, τι-
+dius circuli ellipsim osculantis est reciproce ut
+cubus perpendiculi ex centro C in tangentem
+D N demissi. Quare incrementa graduum in
+
+ 
+
+ 
+
+D, pergendo ab aequatore ad polos erunt ut (3—{4—:3
+1
+
+—CA3hocest‚ utCAss-CN³‚siveut
+CM3—cN³,veleziamuth³—CD³
+
+ 
+
+‘quoniam differentia rectarum C N, C D admo-
+
+dum exigua est. Sedest CM³=(CD÷
+DM)³=CD³÷sCD2><DM÷5DM²
+Χ CD÷DM³,ide‹'›quecM³—CD³=
+30D2><DM÷3DM²><CD÷DM³
+
+2 =80D2 >< DM, ob quantitates DM2,
+
+D M ³, sere evanescentes respectu 3 C D ² ><
+D Μ, sunt igitur incrementa graduum ut
+3 C D² χ D M, siveut DM, obtectam CD
+proxime constantem. Qua're incrementa gra-
+duum sunt ut ponderum incrementa.
+
+93. Idem analytice praestnri potest quemad-
+
+, modum elegantissime, pro more suo, fecit clariss.
+
+Hs
+

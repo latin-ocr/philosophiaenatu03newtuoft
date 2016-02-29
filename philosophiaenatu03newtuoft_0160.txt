@@ -1,0 +1,58 @@
+112 TRAITE' SUR LE FLUX
+
+SOLUTION.
+
+Il est facile de demontrer par la geometrie, que toute section de
+l’ellipso'l'de parallele a l'axe de rotation B D, fait une ellipse semblable εὶ
+l'ellipse generatrice B G D Η. Considerons l'ellipso'l‘de comme com-
+posee de 13 sphere inserite, ayant pour diametre le petit axe G H, et de
+l’ecorce formant un double menisque: l'action de la sphere doit &tre ex-
+primee par ξ n μ, b, comme nous avons demontre au 5. §. Car la masse
+de cette sphere est ξ n μ, b ³, et la distance du point G au centre est :qb-
+Il nous reste donc 3 chercher quelle action resulte du double menisque.
+
+Concevons pour cet effet tout l’ellipso'l'de partage en couches parallelos
+et perpendiculaires a G H. Soit la distance du centre d'une de ces
+couches au point G= x; son epaisseur- = d Χ· il n 'est pas difficile de
+voir* que 13 capacite du bord de cette couche (qui fait partie du double
+
+n t:
+
+menisque en question) est = ᾖ Χ (2 b Χ -- Χ Χ) (1 Χ, et que ce bord
+etant multiplie par la densite μ, en donne la quantite de matiere = {fieb}
+
+>< (2 b Χ - Χ Χ) (1 Χ. Or toutes les parties de ce bord infiniment .
+
+mince, penvent etre censees agir egalement, et avec une meme obliquite
+sur le corps place au point G: on n'a donc
+qu'a multiplier cette quantite de matiere par la
+raison de la distance du centre de la couche
+au point G εὶ 13 distance du bord de 13 couche
+au meme point G, et diviser par le quarre de
+cette* distance, pour avoir l’attraction du bord de
+
+la couche, qui sera donc ngfhbc >< (2 b x— Χ Χ)
+
+X Χ .—l-, ou bien —Q‘h-er—d-g'f:
+
+(ΓΞ-ΜΞ abx 4bbv2b . Ι)
+
+ 
+
+ 
+
+(1Χ><
+
+ 
+
+>< (2b xlx—x V x)dontl'integraleest :4—3—35-33-—5 Χ (ffbx Vx
+
+— §xx §l x) puisqu’il ne faut point ajofiter ici de constante3 et pour
+avoir enfin l'attraction de tout le double menisque, il faut mettre Χ .-- 2 b,
+apres quoi on aura simplement ᾖ n μ C. Sion ajofite a cette quantite
+
+‘Car l’aire de l’ellipse &loignee de G de la Donc &tant cette aire du oercle de celle de Pel-
+quantitexest— >< υτ C n(2 b x——x x) et lipsereste—(2bx—xx) pourl‘airedemo-
+
+l’aire du cercle inserit est¹2¹ — (2 b x — x x). msque'
+

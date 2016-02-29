@@ -1,0 +1,47 @@
+166 TRAITE' SUR LE FLUX.
+
+cette table suppose encore le plan des 'orbites de la Lune et du Soleil
+
+· etre 16 meme que celui de l'equateur de 13 Terre, ce qu’il faut sur-tout
+remarquer 3 l’egard des trois dernieres colonnes. Mais cette supposition
+n’a pas beaucoup d'influence sur les autres colonnes ; et les ephemerides,
+qui marquent le passage de la Lune par 16 meridien, suppleeront aux trois
+dernieres.
+
+VIIL—Apres avoir expose au long tout ce que les differentes distances
+des luminaires, et sur-tout de 13 Lune 313 Terre, peuvent contribuer pour
+faire varier l'heure des 11131663,ηο113 dirons aussi un mot sur l'inegalite
+du mouvement des luminaires.
+
+Cette inegalite seroit d'une tres-grande importance, s'il falloit con-
+struite une table pour les heures des marees, sans se rapporter aux tables
+et aux ephemerides: mais elle ne nous est d'aucune consequence, puisque
+nous supposons l'heure du passage de la Lune par 16 meridien, aussi-bien
+que l'arc compris entre les deux luminaires, connus par les ephemerides. “
+
+.C'est 13 raison qui m’a engage 3 rapporter l'heure des marees au passage
+de la Lune par 16 meridien, 611 donnant une table, qui marque, combien
+la premiere avance ou retarde sur l'autre.
+
+IX.—Il nous reste 3 consideret les inclinaisons des orbites 3 l’egard de
+l’equateur: pour cet effet il faut concevoir un cercle qui passe par les
+centres du Soleil, de la Lune et de 13 Terre ; et c'est proprement 66
+661616 que doivent representer 1011163 1103 figures, que nous avons consi-
+derees jusqu’ici, comme representant l'equateur de 13 Terre. On voit
+bien apres 6613, que tous les points resteront dans 66 cercle aux memes
+endroits3 et que les arcs se conserveront tels, que nous les avons deter-
+mines: 'mais les angles horaires formes sur l’equateur par ses arcs, en
+sont changes. On ne scauroit sans une theorie parfaite de la Lune deter-
+miner au juste ces angles horaires, 3 631136 (16 13 variabilite de l'inclinaison
+de l’orbite lunaire 3 l'egard de l’equateur; mais aussi 66 changement
+n'est-il pas fort considerable, par rapport 3 Raro horaire compris entre 16
+passage de la Lune par le meridien, et le moment de la haute mer; nous
+supposeronS, et nous pouvons le faire ici sans aucune erreur sensible, que
+les orbites de 13 Lune et du Soleil sont dans un meme plan, ayant
+chacune une inclinaison avec l'equateur de 234. 30¹³. et nous considererons
+13-(163311313 Lune dans trois sortes de situation : 1⁰. Lorsque sa declinaison,
+3 l'egard de l'equateur, est nulle3 et alors il faut multiplier les nombres de
+13 seconde, troisieme et quatrieme colonnes de notre table par 19025, et ce qui
+proviendra marquera le nombre de minutes entre le passage de la Lune
+par le meridien, et l'heure de la haute mer. 2⁰. Lorsque 13 Lune se
+
